@@ -1,7 +1,7 @@
 # Hack-Compiler-C-
 ___
-##EN
+## EN
 This is a small file viewer in any compiler, where you can even execute the commands
 ___
-##RU 
+## RU 
 Это небольшой просмотр файлов в любом компиляторе, где то даже можно выполнять команды
